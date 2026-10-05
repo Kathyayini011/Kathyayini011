@@ -1,11 +1,14 @@
-## Hi there I Am Kathyayini K Currently Studying BCA 
+## Hi there I Am Kathyayini K BCA Student Aspiring Data Analytics 
+I Am Passionate About Data Science,Python & Cyber Security 
 
-- 🔭 I’m currently working on -
-- 🌱 I’m currently learning Data Analytics 
-- 👯 I’m looking to collaborate on -
-- 🤔 I’m looking for help with -
-- 💬 Ask me about -
-- 📫 How to reach me:-
-- 😄 Pronouns:-
-- ⚡ Fun fact:-
+🌱 Currently Learning:-
+-Python
+-Machine Learning 
+-Git & Github 
+
+### Tools & Technologies
+- Git
+- GitHub
+- MySQL
+
 
