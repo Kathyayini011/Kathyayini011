@@ -11,5 +11,5 @@ I Am Passionate About Data Science,Python & Cyber Security
 - GitHub
 - MySQL
 
-![Kathyayini011's GitHub Stats](https://readme-stats-github.pages.dev/api?username=Kathyayini011&theme=dark)
+[![Kathyayini011 GitHub stats](https://github-stats-extended.vercel.app/api?username=Kathyayini011)](https://github.com/stats-organization/github-stats-extended)
 
